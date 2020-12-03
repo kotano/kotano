@@ -2,7 +2,7 @@
 
 My name is Arslan I am a python developer.
 
-- 🔭 [Check out](https://github.com/kotano-snippets/) my other projects.
+- 🔭 Check out my [other projects](https://github.com/kotano-snippets/).
 - 👯 I’m looking for collaborator to work on my [application](https://kotano.github.io/Tempo/).
 - 💬 Interested in job offers ([click](https://kotano.github.io/)).
 
