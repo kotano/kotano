@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is Arslan I am a python developer.
+My name is Arslan I make productivity apps.
 
 - 🔭 Check out my [other projects](https://github.com/kotano-snippets/).
-- 👯 I’m looking for collaborator to work on my [application](https://kotano.github.io/Tempo/).
-- 💬 Interested in job offers ([click](https://kotano.github.io/)).
 
 <!--
 **kotano/kotano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
