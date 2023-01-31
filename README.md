@@ -17,7 +17,7 @@ My name is Arslan, I am a Fullstack React Native developer.
 
 ### Coming soon
 
-- [SkipSearch](https://github.com/kotano/skipsearch) - Chrome extension that lets you quckly jump to the first google search result
+- [GoFirst](https://github.com/kotano/gofirst) - Chrome extension that lets you quckly jump to the first google search result
 - [WatchDoc](https://github.com/kotano/watchdoc) - CLI tool that helps you to keep your documentation updated.
 - [Pause](https://github.com/kotano/pause) - React Native app that reminds you to take a break. A mindfulness app.
 
