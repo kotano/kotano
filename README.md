@@ -2,8 +2,6 @@
 
 My name is Arslan, I am a Fullstack React Native developer.
 
-![Kotano's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotano&count_private=true&theme=cobalt)
-
 ### Apps
 
 - [Tastik](https://tastik.app) - Smart time management app that automatically prioritizes your tasks and schedules your day. (Private Alpha)
