@@ -4,7 +4,7 @@ My name is Arslan, I am a Fullstack React Native developer.
 
 ### Apps
 
-- [Afina](https://afina.app) - Social discovery for friends and like-minded people.
+- [Afina](https://afina.app) - Social discovery service for friends and like-minded people.
 - [Tastik](https://tastik.app) - Smart time management app that automatically prioritizes your tasks and schedules your day. (Private Alpha)
 - [Tastik web](https://web.tastik.app) - Web version of Tastik time management app.
 - [Greefon](https://apps.apple.com/jo/app/greefon/id1590121856) - Greefon club mobile app.
